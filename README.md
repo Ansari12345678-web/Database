@@ -21,7 +21,14 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 - Run the code with the mentioned command below.
+- After sucessful comlpletion of the code you will see the below ouput with the help og model.h5 file.
+![WhatsApp Image 2023-12-03 at 11 31 31_9760a8bf](https://github.com/MohammedAnas2002/Database/assets/143061863/30cda9c8-d44d-439f-bb77-8f757e4822c1)
+![WhatsApp Image 2023-12-03 at 11 32 27_4fde26db](https://github.com/MohammedAnas2002/Database/assets/143061863/f2e51720-809d-403f-babd-57e25580bf58)
 
+
+  
+
+To run the code, use the below command.
 streamlit run app.py 
  
 
