@@ -1,13 +1,41 @@
-# Database
-<h1 align="center">Sugarcane disease identification and segmentation using Deep Learning Approach.</h1>
+# Plant-Disease-Detection
 
 
-<img src='C://Users//anass//Downloads//download.png' width='25'>
 
-<p1 align="center">![Visa_Photo_page-0001 (1) (1)](https://github.com/Ansari12345678-web/Database/assets/143061863/16c06f7c-a314-41fd-ad3c-7024a1a30706)</p1>
-<p align="center">
-    <img width="400" hieght="250" src="https://github.com/Ansari12345678-web/Database/assets/143061863/16c06f7c-a314-41fd-ad3c-7024a1a30706">
-</p>
+### Steps to run Code
+- Clone the repository.
+```
+git clone https://github.com/noorkhokhar99/Plant-Disease-Detection.git
+```
+- Goto the cloned folder.
+```
+cd Plant-Disease-Detection
 
-<p1 align="center">![image](https://github.com/Ansari12345678-web/Database/assets/143061863/8a1557a1-381c-44a7-bad8-2d099deeb124)</p1>
+```
+- Upgrade pip with the mentioned command below.
+```
+pip install --upgrade pip
+```
+- Install requirements with the mentioned command below.
+```
+pip install -r requirements.txt
+```
+- Run the code with the mentioned command below.
+
+streamlit run app.py 
+ 
+
+
+
+
+### Watch the Complete Step by Step Explanation click image
+
+[![Watch the video](https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png)](https://www.youtube.com/watch?v=jJmyfiyNv04)
+
+
+download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
+
+
+
+If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
 
